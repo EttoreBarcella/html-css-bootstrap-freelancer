@@ -19,19 +19,20 @@ header, .copyright{
     color: white;
 }
 
+.container-custom, . .container-custom-about, .container-custom-hero{
+    margin: auto;
+}
+
 .container-custom{
     max-width: 600px;
-    margin: auto;
 }
 
 .container-custom-about{
     max-width: 450px;
-    margin: auto;
 }
 
 .container-custom-hero{
     max-width: 250px;
-    margin: auto;
 }
 
 .container-custom-about nav ul{
