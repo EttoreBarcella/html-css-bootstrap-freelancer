@@ -25,8 +25,12 @@ header, .copyright{
 .divider_bar{
     height: 4px;
     background-color: white;
-    width: 200px;
+    width: 100px;
     border-radius: 10px;
+}
+
+.bi-cloud-arrow-down-fill{
+    padding-right: 4px;
 }
 
 .portfolio .divider_bar, .contact .divider_bar{
@@ -42,11 +46,11 @@ header, .copyright{
 }
 
 .container-custom{
-    max-width: 600px;
+    max-width: 750px;
 }
 
 .container-custom-about{
-    max-width: 450px;
+    max-width: 700px;
 }
 
 .container-custom-hero{
